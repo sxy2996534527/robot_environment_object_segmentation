@@ -9,4 +9,8 @@
 3. Unseen Object Clustering: Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation: https://github.com/NVlabs/UnseenObjectClustering
 4. RANSAC PLANE segmentation, euclidean clustering
 
+### train detection
+1. https://github.com/Tony607/labelme2coco/blob/master/labelme2coco.py
+2. https://gilberttanner.com/blog/detectron2-train-a-instance-segmentation-model
+
 ### calibration and registration 
